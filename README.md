@@ -1,0 +1,1 @@
+vipsthumbnail node.js wrapper

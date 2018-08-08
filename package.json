@@ -1,0 +1,11 @@
+{
+  "name": "vipsthumbnail",
+  "version": "0.0.1",
+  "description": "vipsthumbnail wrapper for node.js",
+  "main": "./build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Kuznetsov (cav@cav.ru)",
+  "license": "ISC"
+}
